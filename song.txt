@@ -7,7 +7,11 @@ Form the lines
 Shield by shield
 
 some content
+<<<<<<< HEAD
 abcde
 
 side by side
 we're marching into destiny
+=======
+abcde
+
